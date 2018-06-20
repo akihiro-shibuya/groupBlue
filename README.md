@@ -6,10 +6,15 @@
 田中菜
 澁谷　彰広
 髙井
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6780e4f38b705e489fb6b440aed4a07a393c887a
 https://github.com/ticktackJP
-=======
+---
 
+
+<<<<<<< HEAD
 -----
 
 
@@ -17,7 +22,6 @@ https://github.com/ticktackJP
 
 -----
 =======
->>>>>>> be1060c290960b29969c1330479bd3823cad8a33
->>>>>>> 97f485044c3b0fea3f1051bf20774d1d5725619b
 
 [田中](https://github.com/zd3e08)
+=======
