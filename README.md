@@ -12,14 +12,11 @@
 =======
 >>>>>>> 6780e4f38b705e489fb6b440aed4a07a393c887a
 https://github.com/ticktackJP
-<<<<<<< HEAD
 ---
 [グーグル](http://google.com)
 ![avatar](images/icon.png)
 ---
 
-<<<<<<< HEAD
------
 
 
 
