@@ -7,9 +7,6 @@
 田中菜
 [zd3E08](https://github.com/zd3e08)
 髙井
-
-=======
-
 https://github.com/ticktackJP
 
 ---
