@@ -13,7 +13,9 @@
 https://github.com/ticktackJP
 
 ---
-
+[グーグル](http://google.com)
+![avatar](images/icon.png)
+---
 
 
 -----
