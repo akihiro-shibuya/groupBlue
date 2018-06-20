@@ -9,9 +9,7 @@
 ![avatar](images/icon_tanaka.jpg)
 
 髙井
-<<<<<<< HEAD
-
-=======
->>>>>>> 15bac43812db4b4e27b6de1b9b4b869ad4b68ba9
 https://github.com/ticktackJP
 [グーグル](http://google.com)
+![avatar](images/icon.png)
+![プルリクテスト](images/images01.png)
