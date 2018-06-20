@@ -1,6 +1,5 @@
 # groupBlue
 
------
 
 澁谷　彰広
 [zd3E06](https://github.com/akihiro-shibuya)
@@ -10,4 +9,5 @@
 https://github.com/ticktackJP
 [グーグル](http://google.com)
 ![avatar](images/icon.png)
+
 
