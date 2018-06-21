@@ -12,4 +12,4 @@
 https://github.com/ticktackJP
 [グーグル](http://google.com)
 ![avatar](images/icon.png)
-![プルリクテスト](images/images01.png)
+![プルリクテスト](images/images01.jpg)
